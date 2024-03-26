@@ -56,7 +56,8 @@ print(f"Predicted value: {pre}")
 <img width="418" alt="Screenshot 2024-03-26 090744" src="https://github.com/srishanth2006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150319470/f6a0d139-ebce-42c2-bd28-fc8bf66878b3">
 
 ## Value of X
-<img width="112" alt="Screenshot 2024-03-26 090959" src="https://github.com/srishanth2006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150319470/015770cb-12dc-45e8-b03b-0655a4262d02">
+<img width="149" alt="Screenshot 2024-03-26 091917" src="https://github.com/srishanth2006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150319470/cc4dafc9-4d81-4583-a2bb-6e27646694e7">
+
 
 ## Predicted Value
 <img width="141" alt="Screenshot 2024-03-26 091010" src="https://github.com/srishanth2006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150319470/65bcc2af-5f0b-407a-9c76-4a7c4d4e6f41">
